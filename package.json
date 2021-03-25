@@ -1,5 +1,5 @@
 {
-    "name": "frontend-workshops",
+    "name": "vite-process-error",
     "version": "0.0.0",
     "scripts": {
         "start": "vite",
