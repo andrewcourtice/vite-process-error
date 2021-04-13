@@ -8,7 +8,9 @@
     },
     "dependencies": {
         "@azure/event-hubs": "^5.5.0",
+        "buffer": "^6.0.3",
         "flex-layout-attribute": "^1.0.3",
+        "process": "^0.11.10",
         "vue": "^3.0.11"
     },
     "devDependencies": {

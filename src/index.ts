@@ -1,3 +1,4 @@
+import './shims';
 import './styles/index.scss';
 
 import App from './app.vue';
